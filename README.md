@@ -466,9 +466,12 @@ MIT License - ใช้งานได้อย่างอิสระ
 - ✅ Mobile App (React Native)
 
 ---
+# ท่านใดสนใจทำระบบแบบนี้ ติดต่อซื้อไฟล์ได้ที่
+# Gmail: boynaa1122@gmail.com 
+# lineid: back_boy
 
 ## 🙏 ขอบคุณ
 
-สร้างด้วย ❤️ โดย GaFiwSHOP Team
+
 
 **Happy Selling! 🚀**
