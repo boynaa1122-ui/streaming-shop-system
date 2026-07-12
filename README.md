@@ -448,9 +448,13 @@ MIT License - ใช้งานได้อย่างอิสระ
 ## 👨‍💻 Support & Contact
 
 - **GitHub Issues:** https://github.com/boynaa1122-ui/Apps-stem-online/issues
-- **Email:** back3329@gmail.com
-- **Documentation:** ดูไฟล์ `DEPLOY_GUIDE.md`
+- **Email:** boynaa1122@gmail.com
+  ## ❌ไฟล์จริงต้องมีค่ากาแฟ❌**
+  ## ไฟล์นี้ไม่สามารรันได้ ##
 
+## ตัวอย่างเว็บไซต์ ##
+  gafiwshop-
+https://gafiwshop-g8ucbypv.manus.space/
 ---
 
 ## 🎁 Bonus Features
@@ -466,9 +470,11 @@ MIT License - ใช้งานได้อย่างอิสระ
 - ✅ Mobile App (React Native)
 
 ---
-# ท่านใดสนใจทำระบบแบบนี้ ติดต่อซื้อไฟล์ได้ที่
-# Gmail: boynaa1122@gmail.com 
-# lineid: back_boy
+# ท่านใดสนใจทำเว็บทำระบบ ขายบัญชี Streaming (Netflix, Disney+, YouTube Premium, HBO Max, VIU, Spotify, Prime Video) แบบอัตโนมัติ พร้อมระบบชำระเงิน Stripe, เติมเงิน, Admin Panel ครบครัน
+# Gmail:
+boynaa1122@gmail.com 
+# lineid:
+back_boy
 
 ## 🙏 ขอบคุณ
 
